@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+auth-backed-spring/target/
+auth-frontend-angular/dist/
+auth-frontend-angular/.angular/
+
+# Logs
+*.log
+auth-backed-spring/app.log
+
+# Dependencies
+auth-frontend-angular/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
